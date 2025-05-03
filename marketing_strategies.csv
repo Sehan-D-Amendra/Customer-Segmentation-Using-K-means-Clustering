@@ -1,0 +1,5 @@
+Cluster,Segment_Name,Percentage,Average_Recency,Average_Frequency,Average_Monetary,Recommended_Marketing
+0,Dormant Customers,21.64,259.47710330138443,1.3706070287539935,430.42847806176826,"Reactivation campaigns, surveys to understand churn reasons, win-back incentives"
+1,Segment 1,33.42,46.146206896551725,4.169655172413793,1589.346264137931,Segment-specific targeted campaigns
+2,Champions,13.41,19.790378006872853,15.694158075601374,7521.496870962214,"Reward programs, exclusive previews of new products, seek referrals"
+3,Segment 3,31.53,58.010233918128655,1.5124269005847952,381.29453289473685,Segment-specific targeted campaigns
